@@ -1,0 +1,5 @@
+#-----------------------------------------------------------------
+# Use this file to add customized Bnd instructions for the bundle
+#-----------------------------------------------------------------
+
+Import-Package: com.orientechnologies.*,org.ubimix.commons.*;version="1.2.1",org.jokerd.opensocial.*;version="0.1.0"
